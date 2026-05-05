@@ -1,6 +1,11 @@
-# DOCUMENTACIÓN DEL PROYECTO
+# Ciencia de Datos e Inteligencia Artificial
+
+# Documentacion Del Proyecto
+
 Materia: CULTURA DIGITAL Y SOCIEDAD
+
 Nombre: Alex Chicaiza
+
 ## 1. Introducción
 En esa tarea se pudo practicar el uso de Git,  GitHub y visual studio Code, mediante la implementacion de procesos  para la creacion de repositorios, configuracion de archivos realizar commit, clonacion y configuracion, creacion y gestion de ramas y el pull request y fusion con esto vemos un paso a paso del manejor y beneficios de usar github.
 
@@ -11,7 +16,7 @@ Crear un sistema de preprocesamiento de datos que incluya limpieza, transformaci
 - Git: sistema de control de versiones para gestionar cambios en el código.
 - GitHub: plataforma para almacenar y compartir repositorios en la nube.
 - Visual Studio Code: editor de código utilizado para desarrollar el proyecto.
--
+
 
 ## 4. Comandos Git Utilizados
 | Comando | Descripción |
@@ -39,13 +44,33 @@ Crear un sistema de preprocesamiento de datos que incluya limpieza, transformaci
 Se utilizó GitHub  para automatizar procesos del proyecto.
 
 ## 7. Evidencias
-Se incluyen capturas de pantalla de:
-- Comandos ejecutados en la terminal.
-- Creación de la rama.
-- Archivo de código en Visual Studio Code.
-- Pull Request en GitHub.
-- Fusión (merge) del proyecto.
+
+
+### 1. Comandos en terminal
+![Terminal](imagenes/1.terminal.png)
+
+### 2. Creación del repositorio
+![Repositorio](imagenes/2.creacion-repositorio.png)
+
+### 3. Creación de rama
+![Rama](imagenes/3.creacion-rama.png)
+
+### 4. Código en Visual Studio Code
+![Codigo](imagenes/4.procesamiento-codigo.png)
+
+### 5. Pull Request
+![PR](imagenes/5.pull_request-feacture-procs.png)
+
+### 6. Revisión
+![Revision](imagenes/6.revision.png)
+
+### 7. Merge
+![Merge](imagenes/7.confirmacion-merge-fusion-merg.png)
+
+### 8. Eliminación de rama
+![Delete](imagenes/8.delete_branch.png)
 
 ## 8. Conclusión
-Git da una estructura organizada en trabajos de proyectos de programacion y asi poderlos analizar de una manera mas efectiva.                                                                                                                              ## 9. Repositorio
-https://github.com/ALEX19877891/preprocesamiento-ciencia-datos
+Git da una estructura organizada en trabajos de proyectos de programacion los cuales estan en la nube, con este entorno podemos analizar y realizar cambios y copartir proyectos.                                                                                                                                       
+ ## 9. Repositorio
+https://github.com/ALEX19877891/              preprocesamiento-ciencia-datos
